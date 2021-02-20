@@ -1,0 +1,4 @@
+﻿  Vector.cpp
+f:\c++ stl\stl\vector\vector\vector.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+f:\c++ stl\stl\vector\vector\vector.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  Vector.vcxproj -> F:\C++ STL\STL\Vector\Debug\Vector.exe
